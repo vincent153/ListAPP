@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adaptive Display</string>
+    <string-array name="mode_array">
+        <item>Clear</item>
+        <item>Balance</item>
+        <item>Smooth</item>
+        <item>Fast</item>
+        </string-array>
+</resources>
